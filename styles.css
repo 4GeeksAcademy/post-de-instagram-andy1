@@ -1,0 +1,41 @@
+body{
+background-color: #f0efef;
+margin:0;
+padding:0;
+}
+.titulo{
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+    background: white;
+    border-bottom: 1px solid grey;
+}
+.post{
+background-color: white;
+width: 500px;
+margin:40px auto;
+border:1px solid white;
+}
+.post-encabezado
+{
+display:flex;
+justify-content:space-between;
+padding:10px 14px;
+font-weight: bold;
+border-bottom:1px solid white;
+}
+.page
+{
+    font-weight:lighter;
+    color:gray;
+}
+.post-imagen img
+{
+    width: 100%;
+    display:block;
+}
+.post-inferior
+{
+    padding: 10px;
+    
+}
